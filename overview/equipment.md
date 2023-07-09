@@ -1,12 +1,12 @@
 # 🖨 Equipment
 
-### Stickers & Heat Transfers
+### Vinyl Cutter & Heat Press
 
 <figure><img src="../.gitbook/assets/silhouette.jpg" alt="" width="375"><figcaption><p>Silhouette Cameo Vinyl Cutter (for stickers and heat transfers)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/heat press.jpg" alt="" width="213"><figcaption><p>Heat Press (for t-shirts, etc)</p></figcaption></figure>
 
-### Buttons&#x20;
+### Button Press&#x20;
 
 <figure><img src="../.gitbook/assets/button maker.jpg" alt=""><figcaption><p>Button Press</p></figcaption></figure>
 
@@ -22,7 +22,7 @@
 
 <figure><img src="../.gitbook/assets/3Doodler.jpg" alt="" width="265"><figcaption><p>3Doodler Create</p></figcaption></figure>
 
-### Laser Cutting
+### Laser Cutter
 
 <figure><img src="../.gitbook/assets/laser.jpg" alt=""><figcaption><p>Universal Laser Systems VLS 6.60</p></figcaption></figure>
 

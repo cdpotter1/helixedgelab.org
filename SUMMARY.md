@@ -8,12 +8,11 @@
 * [🖨 Equipment](overview/equipment.md)
 * [🛒 Orders](overview/orders.md)
 * [💲 Pricing](overview/pricing.md)
-* [❓ FAQs](overview/faqs.md)
 
 ## Getting Started
 
 * [📓 Tutorials / How-To](getting-started/tutorials-how-to/README.md)
-  * [🔘 Buttons ](getting-started/tutorials-how-to/buttons.md)
+  * [🔘 Buttons](getting-started/tutorials-how-to/buttons.md)
   * [☀ Vinyl Stickers](getting-started/tutorials-how-to/vinyl-stickers.md)
   * [🌈 Full Color Stickers](getting-started/tutorials-how-to/full-color-stickers.md)
   * [👕 Heat Transfer Vinyl / Heat Press](getting-started/tutorials-how-to/heat-transfer-vinyl-heat-press.md)
