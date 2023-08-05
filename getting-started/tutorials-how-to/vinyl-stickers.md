@@ -1,5 +1,5 @@
 ---
-description: Create single-color stickers cut made of vinyl!
+description: Create single-color stickers made of vinyl!
 ---
 
 # ☀ Vinyl Stickers
@@ -8,25 +8,25 @@ description: Create single-color stickers cut made of vinyl!
 
 1. **Log onto one of the EDGE Lab computers that’s connected to a Silhouette Cameo vinyl cutter.**
 2. **Find the image(s) you want to make a sticker out of**. For best results, use images (such as logos) that have clear, solid lines and are a single color. Your design will be cut (not printed) on a sheet of vinyl that is just one color, so (even if there are multiple colors in the image) your sticker will be just one color.
-3. **Once you’ve found the image(s) download them to the desktop by right clicking the image and selecting “Save image as.”** When prompted, give your image(s) a name and save to the computer.
+3. **Once you’ve found the image(s), download them to the desktop by right-clicking the image and selecting “Save image as.”** When prompted, give your image(s) a name and save to the computer.
 4. **Open Silhouette Studio on the computer by clicking the** ![](<../../.gitbook/assets/1 (3).png>) **icon, or by typing “Silhouette Studio” in the search bar “**![](../../.gitbook/assets/2.png)
 5. **When Silhouette Studio opens, click the Page Setup icon**![](<../../.gitbook/assets/3 (2).png>) **to open the Page Settings**
 
-Set the **Size to Auto**
+Set the **Size to: Auto**
 
-Set the **Cutting Mat to None**
+Set the **Cutting Mat to: None**
 
-Click the **Registration Mark** icon ![](<../../.gitbook/assets/4 (4).png>) and set the **Style to Off/None**
+Click the **Registration Mark** icon ![](<../../.gitbook/assets/4 (4).png>) and set the **Style to: Off/None**
 
 The design area should be blank with a red border
 
 ![](<../../.gitbook/assets/5 (3).png>)
 
 6. **Place your image into Silhouette Studio by going to File -> Merge**
-7. A window will pop-up, select the Desktop, and select your image
+7. A window will pop-up; select the Desktop, and select your image
 8. **Resize your image**
 
-Click the image once, & drag any of the corner squares to get the image to the size you want
+Click the image once, & drag any of the corner squares to resize.
 
 Make sure that the image is not near the red borderlines.
 
@@ -36,7 +36,7 @@ Make sure that the image is not near the red borderlines.
 
 Click the **Trace Panel** ![](<../../.gitbook/assets/7 (1).png>)
 
-Click Select **Trace Area** ![](<../../.gitbook/assets/8 (3).png>)
+Click **Select Trace Area** ![](<../../.gitbook/assets/8 (3).png>)
 
 Click and drag to highlight your whole image
 
@@ -44,13 +44,13 @@ Click and drag to highlight your whole image
 
 Click **Trace** ![](../../.gitbook/assets/10.png)
 
-Move the image away and you will see the trace result of the image
+Move the original image and you will see the trace result of the image
 
 ![](<../../.gitbook/assets/11 (4).png>)
 
 10. **Load the sheet of vinyl**
 
-Take a sheet of vinyl, and make sure there is enough room for your design to fit on it. It should be about 2 inches wider and taller than your design
+Take a sheet of vinyl, and make sure there is enough room for your design to fit on it. It should be at least 2 inches wider and taller than your design
 
 Open the top of the Cameo and place the vinyl along the bar
 
@@ -66,7 +66,7 @@ Move the white right roller to the right corner of the vinyl and lock the rollin
 
 ![](<../../.gitbook/assets/14 (2).jpeg>)
 
-Press the load button on the Cameo screen to load the vinyl,making sure that it loads straight
+Press the load button on the Cameo screen to load the vinyl, making sure that it loads straight
 
 ![](../../.gitbook/assets/15.jpeg)
 
@@ -78,13 +78,13 @@ In Silhouette Studio, click **Send** on the upper right ![](<../../.gitbook/asse
 
 Select **Simple** ![](../../.gitbook/assets/17.png)
 
-On the **Material** option scroll down until you see the Vinyl options
+On the **Material** option, scroll down until you see the Vinyl options
 
 Make sure to select the correct type of vinyl you are using (i.e Glossy or Matte)
 
 ![](../../.gitbook/assets/18.png)
 
-Click the **Send** button on the bottom and the Cameo will start to cut the images
+Click the **Send** button on the bottom and the Cameo will start to cut the images. If the vinyl slips (resulting in a bad cut), you'll need to unload the vinyl, load a new piece of vinyl, and re-send the cut.&#x20;
 
 12. **Unload the stickers**
 
@@ -94,11 +94,9 @@ Take the vinyl and cut a rectangle around the design
 
 ![](../../.gitbook/assets/19.jpeg)
 
-Take a weeding tool and poke out any vinyl you don’t want on your design
+Take a weeding tool and remove any vinyl you don’t want on your design
 
-![](../../.gitbook/assets/20.jpeg)
-
-![](https://lh4.googleusercontent.com/5BRz0zn2NH3e6BMKF6kX1b5dPGQbLQSqvH8hDiUK337fzc6Iqo16RhQigNP7YDog7T4nGGuDnd8cij7\_SPIi-fwUv4qG2ErOc3MW562kbuzCaH4zXkKAXcQr0ElXqBckLX0\_p-HF\_ymwB0f5BRlxlxw)![](https://lh4.googleusercontent.com/A3YtSK-Hrc2jEuQIrF1On9XGSV4v7MeQnCIm32TersFKIwiD5UR-rDCP5-f6jGI0ElVTibJNdYwsvkPjbuKcS8Rw2omnAQR6EcflWUCV8PUisCpVjRkZsgMu0U6s6GJcBqRTBChH1gXCprM3s7gt9D4)
+&#x20;![](https://lh4.googleusercontent.com/5BRz0zn2NH3e6BMKF6kX1b5dPGQbLQSqvH8hDiUK337fzc6Iqo16RhQigNP7YDog7T4nGGuDnd8cij7\_SPIi-fwUv4qG2ErOc3MW562kbuzCaH4zXkKAXcQr0ElXqBckLX0\_p-HF\_ymwB0f5BRlxlxw)![](https://lh4.googleusercontent.com/A3YtSK-Hrc2jEuQIrF1On9XGSV4v7MeQnCIm32TersFKIwiD5UR-rDCP5-f6jGI0ElVTibJNdYwsvkPjbuKcS8Rw2omnAQR6EcflWUCV8PUisCpVjRkZsgMu0U6s6GJcBqRTBChH1gXCprM3s7gt9D4)
 
 13. **Apply Transfer Paper.**&#x20;
 
