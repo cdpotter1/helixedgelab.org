@@ -7,11 +7,11 @@ description: >-
 # 🛒 Orders
 
 {% hint style="info" %}
-<mark style="color:red;">**Please Note:**</mark>&#x20;
+<mark style="color:blue;">**Please Note:**</mark>&#x20;
 
-**Because of staffing limitations, we'll only be filling "order requests" on a limited basis. For sticker & button requests, we encourage you (or a TA, athlete, club member) to visit the lab and follow our** [**easy self-guided tutorials**](../getting-started/tutorials-how-to/)**!**
+**The EDGE Lab is open to all students and staff, and we invite you to come try your hand at "making!" For sticker & button requests, especially, we encourage you (or a TA, athlete, club member) to visit the lab and follow our** [**easy self-guided tutorials**](../getting-started/tutorials-how-to/)**!  :)**&#x20;
 
-For more information on placing an order, please see below. &#x20;
+For more information on placing an order (posters, laser engraving, heat transfers, buttons, stickers, or custom projects), please see below. &#x20;
 {% endhint %}
 
 ## How it works:
