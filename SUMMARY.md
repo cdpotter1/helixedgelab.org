@@ -18,6 +18,7 @@
   * [👕 Heat Transfer Vinyl / Heat Press](getting-started/tutorials-how-to/heat-transfer-vinyl-heat-press.md)
   * [🧊 3D Modeling & Printing](getting-started/tutorials-how-to/3d-modeling-and-printing/README.md)
     * [MakerBot Replicator+](getting-started/tutorials-how-to/3d-modeling-and-printing/makerbot-replicator+.md)
+    * [LulzBot Taz 6](getting-started/tutorials-how-to/3d-modeling-and-printing/lulzbot-taz-6.md)
   * [♟ Resin (& Silicone Molds)](getting-started/tutorials-how-to/resin-and-silicone-molds.md)
   * [⚡ Laser Cutting](getting-started/tutorials-how-to/laser-cutting/README.md)
     * [🎨 Preparing your design](getting-started/tutorials-how-to/laser-cutting/preparing-your-design.md)
