@@ -3,7 +3,7 @@ description: >-
   The EDGE Lab has a variety of printers for different sizes & types of models.
   For most projects, we suggest starting with the easy-to-use UP Mini. If you
   need a larger printer, just ask us!
-cover: ../../.gitbook/assets/20211208_114943.jpg
+cover: ../../../.gitbook/assets/20211208_114943.jpg
 coverY: 0
 ---
 
@@ -22,50 +22,50 @@ coverY: 0
 * Turn on the printer by flipping the switch on the back of the printer.
 * Locate the **UpStudio** software on the computer and open it.
 
-![](<../../.gitbook/assets/0 (2).png>)
+![](<../../../.gitbook/assets/0 (2).png>)
 
 * Click the **UP icon** on the left side of the screen
 
-![](<../../.gitbook/assets/1 (6).png>)
+![](<../../../.gitbook/assets/1 (6).png>)
 
 * You will be taken to the printing page, where you will see the printing bed (the checkered pattern) and the available printing space represented by the box around the print bed. The gray triangle represents the front of the print bed. The model must fit inside the print space or the UpMini will not be able to print it. If the model does not fit, it will need to be resized.
 
-![](<../../.gitbook/assets/2 (6).png>)
+![](<../../../.gitbook/assets/2 (6).png>)
 
 * Click the **Initialize Printer** button on the left side of the screen to get the printer ready.
 
-![](<../../.gitbook/assets/3 (4).png>)
+![](<../../../.gitbook/assets/3 (4).png>)
 
 * While the printer is initializing, add your model by clicking the **Add (+)** sign and then clicking **Add 3D Model**. When the dialog box appears, open your .stl file, and the model will be loaded to UpStudio.
 
-![](<../../.gitbook/assets/4 (1).png>)
+![](<../../../.gitbook/assets/4 (1).png>)
 
 * **Setting up the Model**
   * When the model is loaded, check that it fits inside the printing space. If any part of the model is outside the printing space, the model must be made smaller.
 
-![](../../.gitbook/assets/5.png)
+![](../../../.gitbook/assets/5.png)
 
 * Click the **Scale** button, making sure that the lock button is highlighted blue to keep the proportions of the model when shrinking it.
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](<../../../.gitbook/assets/6 (3).png>)
 
 * To shrink the model, click and hold any of the arrows that appear on the model and drag it into the model. Do this until the model is completely inside the printing space.
 
-![](../../.gitbook/assets/7.png) ![](../../.gitbook/assets/8.png)
+![](../../../.gitbook/assets/7.png) ![](../../../.gitbook/assets/8.png)
 
 * If the model fits in the printing space and there is still some room, you can also make the model bigger. Go to **Scale** and drag any of the arrows out of the model, making sure that all of the model stays within the printing space.
 
-![](<../../.gitbook/assets/9 (2).png>) ![](<../../.gitbook/assets/10 (2).png>)
+![](<../../../.gitbook/assets/9 (2).png>) ![](<../../../.gitbook/assets/10 (2).png>)
 
 * Once the model has been resized and fits in the printing space, click the **Move** button and click **Drop** to print bed. This makes sure that the model sits correctly on the print bed. Otherwise, the model may not be printed correctly and you will end with a failed print.
 
-![](<../../.gitbook/assets/11 (3).png>)
+![](<../../../.gitbook/assets/11 (3).png>)
 
 **Getting Ready to Print**
 
 * Click the **Print** button, and the **Print Settings** will appear. Make sure that the **Layer Thickness** is set to 0.2mm, the **Infill** set to 15%, and the **Quality** is Normal. Leave Nozzle offset as it is. Make sure the **Unsolid Model** is checked and that both the **No Raft** and **No Support** boxes are unchecked.
 
-![](../../.gitbook/assets/12.png)
+![](../../../.gitbook/assets/12.png)
 
 * Click the **Preview** button at the bottom left of the Print Settings. This will give you an estimate of how long it will take to print the model. **Make sure that your print will finish before the EDGE Lab closes. We will not leave printers running after hours.**
 * Click the **Exit Preview** button. Then go back to **Print** and click the Print button and the button at the bottom of the Print Settings. The model will be sent to the printer to print. Make sure that the printer door is closed.
@@ -75,7 +75,7 @@ coverY: 0
 
 * When your print is done, the printer will beep. Open the printer door, ask for a scraper, and remove the print from the print bed by carefully scraping in between the print bed and the model. If you don’t feel comfortable doing this, ask the Edge Lab Facilitator or a TA for help.
 
-![](<../../.gitbook/assets/13 (2).jpeg>) ![](../../.gitbook/assets/14.jpeg)
+![](<../../../.gitbook/assets/13 (2).jpeg>) ![](../../../.gitbook/assets/14.jpeg)
 
 * Delete your model from UpStudio by clicking the model and pressing the **Delete** key on the keyboard.Then, close UpStudio.
 * If you are unable to stay during the whole time that the model is printing, inform the Edge Lab Facilitator or TA, so that they can check the print while you are gone to make sure nothing goes wrong / take the model out once it is done.

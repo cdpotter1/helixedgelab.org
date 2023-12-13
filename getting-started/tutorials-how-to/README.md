@@ -20,8 +20,8 @@ description: Click on a tutorial page below for step-by-step instructions!
 [heat-transfer-vinyl-heat-press.md](heat-transfer-vinyl-heat-press.md)
 {% endcontent-ref %}
 
-{% content-ref url="3d-modeling-and-printing.md" %}
-[3d-modeling-and-printing.md](3d-modeling-and-printing.md)
+{% content-ref url="3d-modeling-and-printing/" %}
+[3d-modeling-and-printing](3d-modeling-and-printing/)
 {% endcontent-ref %}
 
 {% content-ref url="resin-and-silicone-molds.md" %}
