@@ -24,4 +24,5 @@
     * [🎨 Preparing your design](getting-started/tutorials-how-to/laser-cutting/preparing-your-design.md)
     * [✂ Using the cutter](getting-started/tutorials-how-to/laser-cutting/using-the-cutter.md)
 * [💡 Project Ideas](getting-started/project-ideas.md)
-* [📔 Project Tutorials](getting-started/project-tutorials.md)
+* [📔 Project Tutorials](getting-started/project-tutorials/README.md)
+  * [Laser Cut Cube](getting-started/project-tutorials/laser-cut-cube.md)
