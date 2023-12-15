@@ -1,15 +1,15 @@
 ---
 description: >-
-  New to laser cutting? This tutorial teaches you how to create a 3"x3"x3" cube
-  in Adobe Illustrator, add custom images, and prepare the file so that the
-  laser cutter can engrave / cut it.
+  New to laser cutting? This tutorial teaches you how to create a cube design in
+  Adobe Illustrator, add custom images, and prepare the file so that the laser
+  cutter can engrave / cut it.
 ---
 
 # Laser Cut Cube
 
 **Overview:**
 
-For this project, you'll start by making two of the six sides of the cube. Then,  you'll just make copies of those two side in order to complete the cube. You will be “cutting” off pieces of each shape so that they fit together with "tabs." Once laser cut, the piece should make a 3"x3"x3" cube.
+For this project, you'll start by making two of the six sides of the cube. Then, you'll make copies of those two sides in order to complete the cube. You will be “cutting” off pieces of each shape so that they fit together with "tabs." Once laser cut, you should end up with a 3" x 3" x 3" cube.&#x20;
 
 **Set-Up:**&#x20;
 
@@ -21,7 +21,7 @@ For this project, you'll start by making two of the six sides of the cube. Then,
 
 * Start by adding a rectangle to the artboard using the **Rectangle** tool ![](https://lh7-us.googleusercontent.com/sUJLMMv3Zo7hZlt1qkcfgzXVYIi\_spo8ne\_AhBe59oWt9F8YwEua3a1Sexgf4UjwiA7tVjSKKItXNX5\_w4TBuAczALA8MDIoiF53nYPjOE9pUs\_ZIDC\_2XVzu89VvpPt8oDcl1lcWh3Z0zdeQ-GrM3Q).
 * Click and drag with the mouse to create the rectangle.&#x20;
-* Change the dimensions so that the **height and the width are 3 in**.
+* Change the dimensions so that the **height and the width are both set to 3 in**.
 
 &#x20;
 
@@ -34,7 +34,7 @@ You should now have a **3 in by 3 in square**.&#x20;
 **Create the "tabs" for the top and bottom of your cube**
 
 * You'll now make the piece that you will use to “cut” off pieces from the square. (These will become "tabs" to fit the sides of your cubes together once all the pieces are cut.)
-* Make a new rectangle that is .5 inch wide by .125 in high.
+* Make a **new rectangle that is .5 inch wide by .125 in high**.
 * Make a copy of it \[Ctrl+C then Ctrl+V]
 * Select the 3 in by 3 in square and the two rectangles. The **align** option should appear on the right hand side. Select **Center Horizontally** and **Center Vertically**
 
@@ -42,13 +42,13 @@ You should now have a **3 in by 3 in square**.&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/URQwe3d1je_oPUHV1Lb29LH5TP4GhpggcrTlsv3Kdn2eWdLu4N28yZqriI6tkT7Gc4O0R5cWNY2pdUT7Ngz-fYcCnb0WEt2rk8vSN0FT25g3IogNbhReVgrLdVabNaG4C-4NlUnireGhmtNqGSNxPzQ" alt=""><figcaption><p><strong>The square and rectangles are now centered</strong></p></figcaption></figure>
 
-Select the square and one of the rectangles. Then, using the align options, select **Vertical Align Top**&#x20;
+Select the square and **one** of the rectangles. Then, using the align options, select **Vertical Align Top**&#x20;
 
 <figure><img src="../../.gitbook/assets/align top.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh7-us.googleusercontent.com/zhxJrVJjZLKfA9XGUHhjityKCbXvmBUlMKp0V4R3z_81AI4R9bGALFE45puqGC-SYyL1Y0m-jpdHUnmte7qg9apkGp0vW20Au_HaokbjKaZi1qyA3P4spbLMAo3LdfUYE9UhC8K6R8ZVsAvf-uAvlng" alt=""><figcaption><p>It should look like this</p></figcaption></figure>
 
-Select the square and the rectangle left on the center and select the Vertical Align Bottom option.\
+Select the square and the rectangle left in the center and select the **Vertical Align Bottom** option.\
 
 
 <figure><img src="../../.gitbook/assets/align bottom.png" alt=""><figcaption></figcaption></figure>
