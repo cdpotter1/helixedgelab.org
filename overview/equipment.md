@@ -1,4 +1,4 @@
-# 🖨 Equipment
+# 🖨️ Equipment
 
 ### Vinyl Cutter & Heat Press
 
@@ -14,9 +14,17 @@
 
 <figure><img src="../.gitbook/assets/upmini.jpg" alt="" width="375"><figcaption><p>UP Mni 2 (print bed = 4.7" x 4.7" x 4.7") </p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/makerbot sketch.jfif" alt=""><figcaption><p>MakerBot Sketch</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/makerbot (1).jpg" alt=""><figcaption><p>MakerBot Replicator 2 (print bed = 11.2 L x 6.1" W x 6" H)</p></figcaption></figure>
 
+
+
 <figure><img src="../.gitbook/assets/lulzbot.jpg" alt=""><figcaption><p>LulzBot Taz 6 (print bed = 11" x 11" x 9.8") </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/prusa i3.jpg" alt="" width="179"><figcaption><p>Prusa i3 MK3S</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/anycubic.jfif" alt=""><figcaption><p>Anycubic Mono X2 Resin Printer</p></figcaption></figure>
 
 ### 3D Pens
 
