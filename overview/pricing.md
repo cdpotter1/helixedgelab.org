@@ -58,6 +58,11 @@ Laser Cutting Prices are determined by calculating the following:&#x20;
 * Metal Cards (.2mm): $0.10
 * Small Round Wood: $0.25
 
+### Mugs
+
+* Standard Mug with custom design / photo: $6 each
+* Tall Latte Mug with custom design / photo: $10 each
+
 ## Product Request Prices&#x20;
 
 #### (orders made by our TAs or staff). See our "[Orders](orders.md)" page to place a request.
@@ -111,3 +116,7 @@ _You can also bring in your own items to engrave, provided you've gotten staff a
 | **Vinyl heat transfers** (cut, weeded, and applied to your items)                             | <p>full sheet of vinyl </p><p>(12" x 12")</p>       | **$5.00 / sheet**     |
 | **T-shirt transfers** (full-color images or photos printed and transfered to your items)      |  8.5" x 11" transfer                                | **$4.00 / transfer**  |
 
+### Mugs
+
+* Standard Mug with custom design / photo: $7 each
+* Tall Latte Mug with custom design / photo: $11 each
