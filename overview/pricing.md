@@ -36,32 +36,14 @@ description: >-
 | <p><strong>Original model</strong> </p><p>(designed by you in Tinkercad or another modeling program)</p>                 | **FREE!** (We love that you're modeling your own designs, and are happy to print them out on our printers!)                   |
 | <p><strong>Downloaded model</strong> </p><p>(found on Thingiverse or another site containing other people's designs)</p> | <p><strong>$0.10 / per gram of filament</strong> used </p><p>(most models printed on the UPMini printers cost $1-5 each) </p> |
 
-### Laser Cutting / Engraving&#x20;
+### Laser Cutting / Engraving: Do-It-Yourself &#x20;
 
-Laser Cutting Prices are determined by calculating the following:&#x20;
+If you've been trained on the laser cutter and are preparing / engraving your own projects, the only charge is for the cost of engravables. Please see EDGE Lab staff for more information.&#x20;
 
-* **Price of Material being engraved / cut** (if supplied by the EDGE Lab): **Varies** _You can also bring in your own items to engrave, provided you've gotten staff approval._&#x20;
-* **Production Costs**:&#x20;
-  * Jobs requiring less than 10 minutes of staff time: $1.00
-  * Jobs requiring 10-30 minutes of staff time: $5.00&#x20;
-  * Jobs requiring 30+ minutes of staff time: $10.00+&#x20;
-* **Run Time of the Laser Cutter**: **$0.05 / minute**&#x20;
-* **Rotary Set-Up Cost** (for non-flat items such as water bottles): **$2.00**&#x20;
-* **Design Fee** (special circumstances only, when staff is available. Please provide your own designs when possible!): **$6.00 - $10.00**&#x20;
+### Mugs: Do-It-Yourself&#x20;
 
-**Sample Material Costs: Laser cutting / engraving**
-
-* Birch Sheets: $0.02 / square inch
-* Dog Tags: $1.00
-* Leather Bracelets: $4.00
-* Metal Cards (.8mm): $1.50
-* Metal Cards (.2mm): $0.10
-* Small Round Wood: $0.25
-
-### Mugs
-
-* Standard Mug with custom design / photo: $6 each
-* Tall Latte Mug with custom design / photo: $10 each
+* Standard Mug with custom design / photo: $5 each
+* Tall Latte Mug with custom design / photo: $7 each
 
 ## Product Request Prices&#x20;
 
@@ -73,28 +55,20 @@ Our poster printer calculates the price of each poster based on its size, the ty
 
 ### Laser Cutting & Engraving
 
-Laser Cutting Prices are determined by calculating the following:&#x20;
+Prices for some of our most poplar engravables are below. For price quotes on different materials, please see EDGE Lab staff:&#x20;
 
-* **Price of Material being engraved / cut** (if supplied by the EDGE Lab): **Varies**&#x20;
-
-_You can also bring in your own items to engrave, provided you've gotten staff approval._&#x20;
-
-* **Production Costs**:&#x20;
-  * Jobs requiring less than 10 minutes of staff time: $1.00
-  * Jobs requiring 10-30 minutes of staff time: $5.00&#x20;
-  * Jobs requiring 30+ minutes of staff time: $10.00+&#x20;
-* **Run Time of the Laser Cutter**: **$0.05 / minute**&#x20;
-* **Rotary Set-Up Cost** (for non-flat items such as water bottles): **$2.00**&#x20;
-* **Design Fee** (for special circumstances only, when staff is available. Please provide your own designs when possible!): **$6.00 - $10.00**&#x20;
-
-**Sample Material Costs: Laser cutting / engraving**
-
-* Birch Sheets: $0.02 / square inch
-* Dog Tags: $1.00
-* Leather Bracelets: $4.00
-* Metal Cards (.8mm): $1.50
-* Metal Cards (.2mm): $0.10
-* Small Round Wood: $0.25
+* **Tumblers**
+  * **20 oz: $10 each**
+  * **30 oz: $12.50 each**
+  * **40 oz: $15 each**&#x20;
+* **Plaques**&#x20;
+  * **4"x6" clear acrylic block award: $21 each**
+  * **5"x7" (matte black or walnut): $7 each**
+  * **5"x7" clear acrylic block: $26 each**
+  * **6"x8" black glass bevel: $14 each**
+  * **8"x 10" alder infinity edge: $ 19 each**&#x20;
+  *
+* **Laser Cutting Design Fee** (if you need us to help with design creation. Please provide your own designs when possible!): **$6.00 - $10.00**&#x20;
 
 ### Button Orders&#x20;
 
@@ -118,5 +92,5 @@ _You can also bring in your own items to engrave, provided you've gotten staff a
 
 ### Mugs
 
-* Standard Mug with custom design / photo: $7 each
-* Tall Latte Mug with custom design / photo: $11 each
+* Standard Mug with custom design / photo: $6 each
+* Tall Latte Mug with custom design / photo: $8 each
