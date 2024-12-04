@@ -30,25 +30,23 @@ description: Make a paper sticker with any design or photo!
 
 ![](../../.gitbook/assets/6.png)
 
-8. **To print, go to File -> Print. When the Print window pops up, scroll until you find the Canon\_UniFlow on Helix-uniFLow printer and select.**
-9. Click on **Preferences** and then go to Color Mode and set it to Auto and click OK.
-10. Click on the **Paper Source** tab and select Multi-purpose Tray.
+8. **To print, go to File -> Print. When the Print window pops up, select Print@Helix (for the color printer).**
+9. Click on **Preferences** and make sure that it's set to "color" (not black and white).
+10. Click on the **Paper Source** tab and select **Multi-purpose Tray**.
 11. On **Paper Type,** click Settings and select the Labels option
-12. Click **Print** to send your file to the printer.
+12. Click **Print** to send your file to the printer. A "Cost Center" pop-up will appear. Choose "General Printing" (or "Assets" if you're printing during Aspire time).&#x20;
 13. **Take a sheet of Sticker Paper and locate the big Canon Uniflow printer on the other side of the library**
-14. **Log in to the printer by entering your student number. If you logged in to the computer using the EDGE Lab account you need to log in using the code 605 instead**
+14. **Log in to the printer with the code 381.**
 
 ![](../../.gitbook/assets/7.jpeg)
 
-Select “**Secure Print and Scan**”
-
-Select “**Print**”
+Select “**Secure Print**” and select either "General Printing" or "Assets"
 
 Open the **Multi-purpose tray on the side of the printer and place the sticker paper, making sure the printable side is facing down.**
 
 ![](<../../.gitbook/assets/8 (1).jpeg>)
 
-Select the document you want to print and click print+delete
+Select the document you want to print and Select “**Print Jobs**”
 
 15. **Return to the EDGE Lab computer and get a cutting mat**
 16. Make sure the arrow on the cutting mat is pointing up
@@ -93,9 +91,9 @@ Then click on **Offset** ![](../../.gitbook/assets/16.png)to give the image a re
 
 **If your image is NOT a square:**&#x20;
 
-Click the Trace Panel ![](https://lh4.googleusercontent.com/aMbQdUU2G7DBl8VvOmSPoApnYzyuBrJEZryiFHkSmhDAYZfuWGpDCVu2FlnQ-8WfwGPFVd\_6L3hz2-jaebJrtUp\_RUbsVuE\_nuG8hPeQvVC6GTRp5z09o9mLgR4s7LdoIlTGmaqt2krGjBN9Npgffg)
+Click the Trace Panel ![](https://lh4.googleusercontent.com/aMbQdUU2G7DBl8VvOmSPoApnYzyuBrJEZryiFHkSmhDAYZfuWGpDCVu2FlnQ-8WfwGPFVd_6L3hz2-jaebJrtUp_RUbsVuE_nuG8hPeQvVC6GTRp5z09o9mLgR4s7LdoIlTGmaqt2krGjBN9Npgffg)
 
-Click Select Trace Area ![](https://lh5.googleusercontent.com/h6E489ZraVNadBvFmGuC5ip4xrtrkk6KNuJzZWplywCKm3X\_OnCTlU4Fm3I3n3LnNqk1wxF0HrRriSAYto15\_jjOfqP0NR5lZwHozVuQnZLiKfwOPuqlBC9pLiYwqSZztrDOLnYjhE6Rs2x-3nR92g)
+Click Select Trace Area ![](https://lh5.googleusercontent.com/h6E489ZraVNadBvFmGuC5ip4xrtrkk6KNuJzZWplywCKm3X_OnCTlU4Fm3I3n3LnNqk1wxF0HrRriSAYto15_jjOfqP0NR5lZwHozVuQnZLiKfwOPuqlBC9pLiYwqSZztrDOLnYjhE6Rs2x-3nR92g)
 
 Click and drag to highlight your whole image
 
@@ -107,25 +105,25 @@ Move the image away and you will see the trace result of the image
 
 ![](../../.gitbook/assets/22.png)
 
-Select the outline and select the Offset Panel ![](https://lh6.googleusercontent.com/m7\_JO1eXvmmMyW7EoHBmtZkR-8cocbGQsVDchlvDfDCqjCDc6Gdj\_NzS5VbwiuydFtJ1iG0fMlfXN\_5uSf-QDcYazVGyfvdzpD8PsYvwXGYPrNV9EFMKYPoSb7sP1CAfuGOBnOyI50EldmPCUWFSGQ)
+Select the outline and select the Offset Panel ![](https://lh6.googleusercontent.com/m7_JO1eXvmmMyW7EoHBmtZkR-8cocbGQsVDchlvDfDCqjCDc6Gdj_NzS5VbwiuydFtJ1iG0fMlfXN_5uSf-QDcYazVGyfvdzpD8PsYvwXGYPrNV9EFMKYPoSb7sP1CAfuGOBnOyI50EldmPCUWFSGQ)
 
-Then click on Offset ![](https://lh3.googleusercontent.com/i\_OAqqEsmq4cK5xO8plYyUOWHr\_BZQXXibk7CMFPwUPfmafRXOoPysmT6edO9gvLAxSB5LmY0MWgzA4\_qh\_7EuJ5oyD9take7DcQyJhwPHdQcSpHaCRsu7UKjcVG6ox\_9Guh4-xWTtXLdRcuUzp3Kg) to create a red border around the trace (this tells the Cameo where to cut).&#x20;
+Then click on Offset ![](https://lh3.googleusercontent.com/i_OAqqEsmq4cK5xO8plYyUOWHr_BZQXXibk7CMFPwUPfmafRXOoPysmT6edO9gvLAxSB5LmY0MWgzA4_qh_7EuJ5oyD9take7DcQyJhwPHdQcSpHaCRsu7UKjcVG6ox_9Guh4-xWTtXLdRcuUzp3Kg) to create a red border around the trace (this tells the Cameo where to cut).&#x20;
 
-![](https://lh5.googleusercontent.com/xGgWlvkz1drQ1cE0QAGAMpqNRsoqk9TZa8XqEfYjzLx3YYYGvp-JCQPHst7XPNHqrEcdmIrT6NBKsXoY4Q\_OFSvr9t7EUTkSXHLsUnseIFc1C8kdskOR2FJHnuZoF8HH7YswNRNlXSlUEmp71CQrTQ)
+![](https://lh5.googleusercontent.com/xGgWlvkz1drQ1cE0QAGAMpqNRsoqk9TZa8XqEfYjzLx3YYYGvp-JCQPHst7XPNHqrEcdmIrT6NBKsXoY4Q_OFSvr9t7EUTkSXHLsUnseIFc1C8kdskOR2FJHnuZoF8HH7YswNRNlXSlUEmp71CQrTQ)
 
 **Select the trace result (inner border) and delete it to keep only the offset (outer border).**
 
-![](https://lh4.googleusercontent.com/iJLXNF2kvjKZYoU4tC\_\_Rt2Q2tN0TRCnFTVn91oOQsvt3jTXT\_5vfdm7qTYU5lingwX8nHChkjnnhQ5YlR6isPsrSD3Q0lugDHKe9hQThHRNUBvZt9Q6OYQyVD2xmZ\_kFgbNJq912zkcOSJxKTVZKg)
+![](https://lh4.googleusercontent.com/iJLXNF2kvjKZYoU4tC__Rt2Q2tN0TRCnFTVn91oOQsvt3jTXT_5vfdm7qTYU5lingwX8nHChkjnnhQ5YlR6isPsrSD3Q0lugDHKe9hQThHRNUBvZt9Q6OYQyVD2xmZ_kFgbNJq912zkcOSJxKTVZKg)
 
 22. &#x20;**Send the file to be cut**
 
-In Silhouette Studio, click **Send** on the upper right ![](https://lh6.googleusercontent.com/8ZcB0wZJXH3pFUU6DkKyUVm-pnMVmMkBer2wk5jnN01CMXim2yJb9uEO1oxHdk\_QiX225ZoQbv9FrxTnqaG52\_TFobgltEhhVGld-pXUqTs4DzPELeDcW\_\_OviSzAQ2IeJOc0YBdklqzbrR3Jk\_Aaw)
+In Silhouette Studio, click **Send** on the upper right ![](https://lh6.googleusercontent.com/8ZcB0wZJXH3pFUU6DkKyUVm-pnMVmMkBer2wk5jnN01CMXim2yJb9uEO1oxHdk_QiX225ZoQbv9FrxTnqaG52_TFobgltEhhVGld-pXUqTs4DzPELeDcW__OviSzAQ2IeJOc0YBdklqzbrR3Jk_Aaw)
 
-Select **Line** ![](https://lh3.googleusercontent.com/JmkTYa6nHLwaiVmS2ADpibovqvY4xROREsJlWk3ZZFjz-TDoBtVITzras60DZkqpHYY4XAD9RtV1JwxE-ayrh0qhs-JJEsBK-AGf930DuFpimaUTPhn3QYe6f-uwMTsbSw3ru5kVT90f2k\_WzDLZ0g)
+Select **Line** ![](https://lh3.googleusercontent.com/JmkTYa6nHLwaiVmS2ADpibovqvY4xROREsJlWk3ZZFjz-TDoBtVITzras60DZkqpHYY4XAD9RtV1JwxE-ayrh0qhs-JJEsBK-AGf930DuFpimaUTPhn3QYe6f-uwMTsbSw3ru5kVT90f2k_WzDLZ0g)
 
 On the material option, scroll down until you see the **sticker outside** option
 
-![](https://lh6.googleusercontent.com/KFiQqCneGXYoq-jhFtByIXZWa2xcRZHQhb7WGkN9wvp\_xZ7PnjADTn6\_ms7cZBX4m\_J9F\_DEZLwe8PwCRkIox7FnT8fn5XGokXSpVtseXoIIqQO89GCy-vz0Mw-WcLPD44NbGIHGmBl1JnHcXbA\_mw)
+![](https://lh6.googleusercontent.com/KFiQqCneGXYoq-jhFtByIXZWa2xcRZHQhb7WGkN9wvp_xZ7PnjADTn6_ms7cZBX4m_J9F_DEZLwe8PwCRkIox7FnT8fn5XGokXSpVtseXoIIqQO89GCy-vz0Mw-WcLPD44NbGIHGmBl1JnHcXbA_mw)
 
 **IF the option is not there, you’ll need to add it:**
 
