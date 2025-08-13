@@ -7,7 +7,7 @@ description: >-
 # 💲 Pricing
 
 {% hint style="success" %}
-**TIP**: During our Aspire program (Tues & Thurs 3:45 - 5:15), all supplies are **FREE!**&#x20;
+**TIP**: During our Aspire program (Tues , Wed, & Thurs 7:15 a.m. - 8:30 a.m & 3:45 - 5:15 p.m.), all supplies are **FREE!**&#x20;
 {% endhint %}
 
 #### While we encourage you to visit the lab and try out "making" for yourself, we do fill orders on a limited basis. Prices for product orders are at the bottom of this page. For more information about placing an order, please see our[ ORDERS](orders.md) page.&#x20;
@@ -58,17 +58,18 @@ Our poster printer calculates the price of each poster based on its size, the ty
 Prices for some of our most poplar engravables are below. For price quotes on different materials, please see EDGE Lab staff:&#x20;
 
 * **Tumblers**
-  * **20 oz: $10 each**
-  * **30 oz: $12.50 each**
-  * **40 oz: $15 each**&#x20;
+  * **20 oz: $12 each**
+  * **30 oz: $15 each**
+  * **40 oz: $20 each**&#x20;
 * **Plaques**&#x20;
-  * **4"x6" clear acrylic block award: $21 each**
+  * **4"x6" clear acrylic block award: $25 each**
   * **5"x7" (matte black or walnut): $7 each**
-  * **5"x7" clear acrylic block: $26 each**
-  * **6"x8" black glass bevel: $14 each**
-  * **8"x 10" alder infinity edge: $ 19 each**&#x20;
-  *
+  * **5"x7" clear acrylic block: $30 each**
 * **Laser Cutting Design Fee** (if you need us to help with design creation. Please provide your own designs when possible!): **$6.00 - $10.00**&#x20;
+
+### Sublimation
+
+* We're able to sublimate designs onto fabric (shirts, aprons, tote bags, etc.) and onto hard surfaces (certain tumblers, mugs, notebooks, keychains, etc). Because of the variability in pricing, please contact Mr. Chamberlain in the EDGE Lab for any sublimation requests.&#x20;
 
 ### Button Orders&#x20;
 
