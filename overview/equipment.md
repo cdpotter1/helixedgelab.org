@@ -1,6 +1,6 @@
 # 🖨️ Equipment
 
-### Vinyl Cutter & Heat Press
+### Vinyl Cutter, Sublimation Printer & Heat Press
 
 <figure><img src="../.gitbook/assets/silhouette.jpg" alt="" width="375"><figcaption><p>Silhouette Cameo Vinyl Cutter (for stickers and heat transfers)</p></figcaption></figure>
 
@@ -12,7 +12,7 @@
 
 ### 3D Printers
 
-<figure><img src="../.gitbook/assets/upmini.jpg" alt="" width="375"><figcaption><p>UP Mni 2 (print bed = 4.7" x 4.7" x 4.7") </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/flsun.jpg" alt=""><figcaption><p>FLSUN T1 (print bed =<em>10.24 x 10.24 x 12.99 in</em>) </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/makerbot sketch.jfif" alt=""><figcaption><p>MakerBot Sketch (print bed = 8.66" x 7.87" x 9.84") </p></figcaption></figure>
 
@@ -24,7 +24,7 @@
 
 <figure><img src="../.gitbook/assets/prusa i3.jpg" alt="" width="179"><figcaption><p>Prusa i3 MK3S (print bed = 9.84" x 8.3" x 8.3")</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/anycubic.jfif" alt=""><figcaption><p>Anycubic Mono X2 Resin Printer (build plate = 7.8" x 7.7" x 5")</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/anycubic.jfif" alt=""><figcaption><p>Elegoo Mars 5 Resin Printer (build plate =(6.04" x 3.06" x 6.49" )</p></figcaption></figure>
 
 ### 3D Pens
 
