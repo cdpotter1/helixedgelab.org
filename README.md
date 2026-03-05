@@ -13,9 +13,9 @@ The EDGE Lab, a part of Helix's [CTE EDGE](https://www.helixcharter.net/domain/2
 
 * Monday - Thursday 7:15 a.m. - 3:45 pm.&#x20;
   * \[Classes are taught in the lab periods 1, 2, & 4 during Fall 2025]
-* <mark style="color:green;">**ASPIRE Program:**</mark> Tuesday - Thursday 7:15 - 8:30 a.m.  & 3:45 - 5:15 p.m.&#x20;
-* Friday: 9:30 a.m. - 3:35 p.m. &#x20;
-  * Friday morning Aspire: Coding Fundamentals - 8:30 - 9:30 a.m.&#x20;
+* <mark style="color:green;">**ASPIRE Program:**</mark>&#x20;
+  * Tuesday & Thursday 7:15 - 8:30 a.m. &#x20;
+  * Tuesday, Wednesday, & Thursday 3:45 - 5:15 p.m.&#x20;
 
 
 
